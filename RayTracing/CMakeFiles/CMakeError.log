@@ -1,0 +1,57 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3105619173/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3105619173.dir/build.make CMakeFiles/cmTryCompileExec3105619173.dir/build
+make[1]: Entering directory '/home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3105619173.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3105619173.dir/CheckSymbolExists.c.o   -c /home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec3105619173
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3105619173.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3105619173.dir/CheckSymbolExists.c.o  -o cmTryCompileExec3105619173 -rdynamic 
+CMakeFiles/cmTryCompileExec3105619173.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+CMakeFiles/cmTryCompileExec3105619173.dir/build.make:88: recipe for target 'cmTryCompileExec3105619173' failed
+make[1]: Leaving directory '/home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3105619173/fast' failed
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec3105619173] Error 1
+make: *** [cmTryCompileExec3105619173/fast] Error 2
+
+File /home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3778628664/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3778628664.dir/build.make CMakeFiles/cmTryCompileExec3778628664.dir/build
+make[1]: Entering directory '/home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3778628664.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec3778628664.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.2/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3778628664
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3778628664.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec3778628664.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3778628664 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec3778628664.dir/build.make:88: recipe for target 'cmTryCompileExec3778628664' failed
+make[1]: Leaving directory '/home/ura/ClionProjects/RayTracing/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec3778628664] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec3778628664/fast' failed
+make: *** [cmTryCompileExec3778628664/fast] Error 2
+
+

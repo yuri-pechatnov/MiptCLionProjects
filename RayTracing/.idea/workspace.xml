@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Examples-CIMG" targetName="tron" />
+      <config projectName="Examples-CIMG" targetName="jawbreaker" />
+      <config projectName="Examples-CIMG" targetName="plotter1d" />
+      <config projectName="Examples-CIMG" targetName="image2ascii" />
+      <config projectName="Examples-CIMG" targetName="use_nlmeans" />
+      <config projectName="Examples-CIMG" targetName="pde_TschumperleDeriche2d" />
+      <config projectName="Examples-CIMG" targetName="use_skeleton" />
+      <config projectName="Examples-CIMG" targetName="CImg_demo" />
+      <config projectName="Examples-CIMG" targetName="generate_loop_macros" />
+      <config projectName="Examples-CIMG" targetName="tetris" />
+      <config projectName="RayTracing" targetName="project" />
+      <config projectName="Examples-CIMG" targetName="hough_transform2d" />
+      <config projectName="Examples-CIMG" targetName="image_registration2d" />
+      <config projectName="Examples-CIMG" targetName="scene3d" />
+      <config projectName="Examples-CIMG" targetName="curve_editor2d" />
+      <config projectName="Examples-CIMG" targetName="mcf_levelsets3d" />
+      <config projectName="Examples-CIMG" targetName="spherical_function3d" />
+      <config projectName="Examples-CIMG" targetName="fade_images" />
+      <config projectName="Examples-CIMG" targetName="pde_heatflow2d" />
+      <config projectName="Examples-CIMG" targetName="captcha" />
+      <config projectName="Examples-CIMG" targetName="odykill" />
+      <config projectName="Examples-CIMG" targetName="wavelet_atrous" />
+      <config projectName="Examples-CIMG" targetName="use_RGBclass" />
+      <config projectName="Examples-CIMG" targetName="use_draw_gradient" />
+      <config projectName="Examples-CIMG" targetName="gaussian_fit1d" />
+      <config projectName="Examples-CIMG" targetName="dtmri_view3d" />
+      <config projectName="Examples-CIMG" targetName="radon_transform2d" />
+      <config projectName="Examples-CIMG" targetName="mcf_levelsets2d" />
+      <config projectName="Examples-CIMG" targetName="edge_explorer2d" />
+      <config projectName="Examples-CIMG" targetName="tutorial" />
+      <config projectName="RayTracing" targetName="RayTracing" />
+      <config projectName="Examples-CIMG" targetName="image_surface3d" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true" GENERATION_OPTIONS="--debug-output" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f660e55d-7b78-4f5f-9e25-dff25cc093be" name="Default" comment="" />
+    <ignored path="RayTracing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RayTracing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread_pool.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/thread_pool.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#109#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/utils.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scene.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/scene.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="149" column="37" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
+              <folding>
+                <element signature="e#38#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scene.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/scene.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+              <folding>
+                <element signature="e#93#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fig_parallelogram.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_parallelogram.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.stl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/model.stl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fig_primitive.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/fig_primitive.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fig_primitive.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/fig_primitive.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="66" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread_pool.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ray_tracing/thread_pool.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+              <folding>
+                <element signature="e#40#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/screen.h.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/fig_primirive.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/parallelogram.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/parallelogram.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/light_source.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/sphere.cpp" />
+        <option value="$PROJECT_DIR$/models/model2.stl" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ray_tracing/bounding_box.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/utils.h.h" />
+        <option value="$PROJECT_DIR$/models/magnolia.stl" />
+        <option value="$PROJECT_DIR$/ray_tracing/point.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/bounding_box.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/point.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/ray.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/ray.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_sphere.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/cimg_texture_loader.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fip_plain.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_sphere.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_parallelogram.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_polygon.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_triangle.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/texture_surface.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_plain.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_plain.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_parallelogram.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/cimg_texture_loader.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/scene_loader.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/utils.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/scene_loader.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/texture_surface.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/screen.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/screen.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/color.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_triangle.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/primitives/fig_polygon.cpp" />
+        <option value="$PROJECT_DIR$/models/teapot.stl" />
+        <option value="$PROJECT_DIR$/ray_tracing/color.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/fig_primitive.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/models/model3.stl" />
+        <option value="$PROJECT_DIR$/ray_tracing/fig_primitive.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/thread_pool.h.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/thread_pool.h" />
+        <option value="$PROJECT_DIR$/ray_tracing/scene.h" />
+        <option value="$PROJECT_DIR$/models/model.stl" />
+        <option value="$PROJECT_DIR$/ray_tracing/scene.cpp" />
+        <option value="$PROJECT_DIR$/ray_tracing/thread_pool.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="25" />
+    <option name="width" value="1922" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ray_tracing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ray_tracing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="primitives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RayTracing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.RayTracing">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RayTracing" TARGET_NAME="RayTracing" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RayTracing" TARGET_NAME="RayTracing" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RayTracing" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RayTracing" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RayTracing" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RayTracing" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RayTracing" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RayTracing" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RayTracing" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="captcha" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="captcha" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="captcha">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CImg_demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="CImg_demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="CImg_demo">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="curve_editor2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="curve_editor2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="curve_editor2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="dtmri_view3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="dtmri_view3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="dtmri_view3d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="edge_explorer2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="edge_explorer2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="edge_explorer2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="fade_images" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="fade_images" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="fade_images">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gaussian_fit1d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="gaussian_fit1d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="gaussian_fit1d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="generate_loop_macros" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="generate_loop_macros" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="generate_loop_macros">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="hough_transform2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="hough_transform2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="hough_transform2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="image2ascii" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="image2ascii" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="image2ascii">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="image_registration2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="image_registration2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="image_registration2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="image_surface3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="image_surface3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="image_surface3d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="jawbreaker" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="jawbreaker" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="jawbreaker">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mcf_levelsets2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="mcf_levelsets2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="mcf_levelsets2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mcf_levelsets3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="mcf_levelsets3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="mcf_levelsets3d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="odykill" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="odykill" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="odykill">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pde_heatflow2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="pde_heatflow2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="pde_heatflow2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pde_TschumperleDeriche2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="pde_TschumperleDeriche2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="pde_TschumperleDeriche2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="plotter1d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="plotter1d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="plotter1d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="radon_transform2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="radon_transform2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="radon_transform2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="scene3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="scene3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="scene3d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="spherical_function3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="spherical_function3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="spherical_function3d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tetris" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="tetris" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="tetris">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tron" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="tron" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="tron">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tutorial" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="tutorial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="tutorial">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="use_draw_gradient" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="use_draw_gradient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="use_draw_gradient">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="use_nlmeans" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="use_nlmeans" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="use_nlmeans">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="use_RGBclass" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="use_RGBclass" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="use_RGBclass">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="use_skeleton" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="use_skeleton" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="use_skeleton">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="wavelet_atrous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Examples-CIMG" TARGET_NAME="wavelet_atrous" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Examples-CIMG" RUN_TARGET_NAME="wavelet_atrous">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RayTracing" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RayTracing" TARGET_NAME="RayTracing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RayTracing" RUN_TARGET_NAME="RayTracing">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="project" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RayTracing" TARGET_NAME="project" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <list size="33">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.captcha" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CImg_demo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.curve_editor2d" />
+      <item index="4" class="java.lang.String" itemvalue="Application.dtmri_view3d" />
+      <item index="5" class="java.lang.String" itemvalue="Application.edge_explorer2d" />
+      <item index="6" class="java.lang.String" itemvalue="Application.fade_images" />
+      <item index="7" class="java.lang.String" itemvalue="Application.gaussian_fit1d" />
+      <item index="8" class="java.lang.String" itemvalue="Application.generate_loop_macros" />
+      <item index="9" class="java.lang.String" itemvalue="Application.hough_transform2d" />
+      <item index="10" class="java.lang.String" itemvalue="Application.image2ascii" />
+      <item index="11" class="java.lang.String" itemvalue="Application.image_registration2d" />
+      <item index="12" class="java.lang.String" itemvalue="Application.image_surface3d" />
+      <item index="13" class="java.lang.String" itemvalue="Application.jawbreaker" />
+      <item index="14" class="java.lang.String" itemvalue="Application.mcf_levelsets2d" />
+      <item index="15" class="java.lang.String" itemvalue="Application.mcf_levelsets3d" />
+      <item index="16" class="java.lang.String" itemvalue="Application.odykill" />
+      <item index="17" class="java.lang.String" itemvalue="Application.pde_heatflow2d" />
+      <item index="18" class="java.lang.String" itemvalue="Application.pde_TschumperleDeriche2d" />
+      <item index="19" class="java.lang.String" itemvalue="Application.plotter1d" />
+      <item index="20" class="java.lang.String" itemvalue="Application.radon_transform2d" />
+      <item index="21" class="java.lang.String" itemvalue="Application.scene3d" />
+      <item index="22" class="java.lang.String" itemvalue="Application.spherical_function3d" />
+      <item index="23" class="java.lang.String" itemvalue="Application.tetris" />
+      <item index="24" class="java.lang.String" itemvalue="Application.tron" />
+      <item index="25" class="java.lang.String" itemvalue="Application.tutorial" />
+      <item index="26" class="java.lang.String" itemvalue="Application.use_draw_gradient" />
+      <item index="27" class="java.lang.String" itemvalue="Application.use_nlmeans" />
+      <item index="28" class="java.lang.String" itemvalue="Application.use_RGBclass" />
+      <item index="29" class="java.lang.String" itemvalue="Application.use_skeleton" />
+      <item index="30" class="java.lang.String" itemvalue="Application.wavelet_atrous" />
+      <item index="31" class="java.lang.String" itemvalue="Application.RayTracing" />
+      <item index="32" class="java.lang.String" itemvalue="Application.project" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f660e55d-7b78-4f5f-9e25-dff25cc093be" name="Default" comment="" />
+      <created>1460208182213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1460208182213</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19114584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19114584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ray_tracing/scene.h</url>
+          <line>7</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Mon Apr 25 01:24:31 2016&#10;.jpeg" />
+    <entry file="file://$PROJECT_DIR$/pictures_log/Mon Apr 25 01:27:25 2016&#10;.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Mon Apr 25 01:28:13 2016&#10;.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Mon Apr 25 01:28:35 2016&#10;.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Mon Apr 25 01:28:55 2016&#10;.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_triangle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeFiles/RayTracing.dir/build.make">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="349" column="0" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/point.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_plain.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/texture_surface.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/cimg_texture_loader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/screen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_triangle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model2.stl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/teapot.stl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/move.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/scene_loader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#146#163#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/bounding_box.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/bounding_box.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Thu May 12 23:45:51 2016.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Fri May 13 00:09:24 2016.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Thu May 12 23:45:38 2016.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Fri May 13 00:53:25 2016.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/pump-ascii.stl">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures_log/Fri May 13 01:03:18 2016.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/color.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/color.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="81" column="59" selection-start-line="81" selection-start-column="59" selection-end-line="81" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/light_source.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/screen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_parallelogram.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_polygon.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/cimg_texture_loader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/texture_surface.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/ray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/point.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/scene_loader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="e#76#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_sphere.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="94" selection-start-line="31" selection-start-column="94" selection-end-line="31" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_plain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_polygon.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_sphere.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model3.stl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="106" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/fig_primitive.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="66" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/utils.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/primitives/fig_parallelogram.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/fig_primitive.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model.stl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/scene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="e#93#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/scene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="149" column="37" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
+          <folding>
+            <element signature="e#38#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/thread_pool.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#109#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ray_tracing/thread_pool.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+          <folding>
+            <element signature="e#40#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

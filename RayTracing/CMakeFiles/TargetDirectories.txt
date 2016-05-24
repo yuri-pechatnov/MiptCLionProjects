@@ -1,0 +1,1 @@
+/home/ura/ClionProjects/RayTracing/CMakeFiles/RayTracing.dir
